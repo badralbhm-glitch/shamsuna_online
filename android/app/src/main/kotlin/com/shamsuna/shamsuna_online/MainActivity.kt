@@ -1,0 +1,5 @@
+package com.shamsuna.shamsuna_online
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
